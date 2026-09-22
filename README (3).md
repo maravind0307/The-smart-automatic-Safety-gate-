@@ -50,6 +50,6 @@ The system provides automatic obstacle detection and gate control. It gives an i
 The Smart Automatic Safety Gate successfully demonstrates how an ultrasonic sensor can be combined with a buzzer and servo motor to create an automatic safety mechanism. The Arduino processes the distance information and responds by generating an alert and closing the gate when an obstacle enters the defined range. This prototype provides a foundation for developing automated safety barriers for industrial and other controlled environments.
 
 **RESULT**  
-**![](RESULT(3)jpg)**  
+**![](RESULT(3).jpg)**  
 
 
