@@ -26,7 +26,7 @@ First, connect the Arduino board and breadboard. Connect the ultrasonic sensor t
 The ultrasonic sensor sends ultrasonic waves and receives the reflected waves from an obstacle. The Arduino calculates the distance based on the time taken for the waves to return.
 
 When the measured distance is between 20 cm and 50 cm, the Arduino activates the buzzer and sends a control signal to the servo motor. The servo motor rotates to close the gate. When no obstacle is detected within the specified range, the system remains in its normal 
-![WORKING PRINCIPLE](WORKING(3).jpg)
+![WORKING](WORKING(3).jpg)
 
 ## **6\. Applications**
 
