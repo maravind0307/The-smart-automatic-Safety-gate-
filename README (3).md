@@ -26,7 +26,7 @@ First, connect the Arduino board and breadboard. Connect the ultrasonic sensor t
 The ultrasonic sensor sends ultrasonic waves and receives the reflected waves from an obstacle. The Arduino calculates the distance based on the time taken for the waves to return.
 
 When the measured distance is between 20 cm and 50 cm, the Arduino activates the buzzer and sends a control signal to the servo motor. The servo motor rotates to close the gate. When no obstacle is detected within the specified range, the system remains in its normal 
-![WORKING](WORKING(3).jpg)
+![](WORKING(3).jpg)
 
 ## **6\. Applications**
 
@@ -47,7 +47,7 @@ The system provides automatic obstacle detection and gate control. It gives an i
 ## **8\. Conclusion**
 
 The Smart Automatic Safety Gate successfully demonstrates how an ultrasonic sensor can be combined with a buzzer and servo motor to create an automatic safety mechanism. The Arduino processes the distance information and responds by generating an alert and closing the gate when an obstacle enters the defined range. This prototype provides a foundation for developing automated safety barriers for industrial and other controlled environments.
-![RESULT](RESULT(3).jpg)
+![](RESULT(3).jpg)
  
 
 
